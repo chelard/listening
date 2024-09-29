@@ -1,0 +1,23 @@
+listening Party real time Podcast App - called Awio
+-users need to be able to listen to podcasts in real time with others,
+    they can also comment on the podcast as they listen
+    --podcast episode
+    --time to go live
+    --links to the media file
+
+ -listening Party starts
+ --users can join the party
+ --user can chat with others
+ --podcast episode plays in real time (played on the server)
+ --user can react in real time
+ --show the live listening parties on the dashboard page
+
+ Models
+ -Listening Party
+ -Episode
+ -Podcast
+ -Reaction
+ -Message
+ -User
+
+
